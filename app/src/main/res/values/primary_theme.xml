@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Primary" parent="Primary.AppTheme">
+        <item name="logo">@style/primary_logo</item>
+        <item name="action_button">@style/primary_action_button</item>
+        <item name="input_text">@style/primary_input_text</item>
+        <item name="title_text">@style/primary_title_text</item>
+        <item name="grey_input_text">@style/primary_grey_input_Text</item>
+        <item name="sub_title_text">@style/primary_sub_title_text</item>
+    </style>
+</resources>

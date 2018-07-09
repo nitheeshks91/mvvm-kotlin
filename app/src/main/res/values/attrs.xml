@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="logo" format="reference" />
+    <attr name="action_button" format="reference" />
+    <attr name="input_text" format="reference" />
+    <attr name="grey_input_text" format="reference" />
+    <attr name="title_text" format="reference" />
+    <attr name="sub_title_text" format="reference" />
+
+</resources>

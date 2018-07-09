@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/denim</color>
+    <color name="colorPrimaryDark">@color/denim</color>
+    <color name="colorAccent">@color/denim</color>
+
+    <color name="white">#ffffff</color>
+    <color name="denim">#118ccd</color>
+    <color name="cerulean">#059acb</color>
+    <color name="lightning_yellow">#f9c111</color>
+    <color name="lightning_yellow_dark">#b7952b</color>
+    <color name="nevada">#62717A</color>
+    <color name="mine_shaft">#333333</color>
+</resources>
